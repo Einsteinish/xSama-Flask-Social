@@ -1,4 +1,4 @@
-# xSama Flask-Social Application
+# xSama Flask-Social
 
 [![Site](https://www.xsama.com/](https://xsama.com)
 
