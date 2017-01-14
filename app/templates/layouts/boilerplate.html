@@ -30,9 +30,15 @@
   <div class="container">
     {% include "_nav.html" %}
     {% include "_messages.html" -%}
+
+    {% include "_adsense.html" -%}
+
     {% block layout %}{% endblock -%}
+
+    {% include "_adsense.html" -%}
+
     <footer class="footer">
-      <p>Copyright &copy; 2016 by K Hong</p>
+      <p>Copyright &copy; 2017 by K Hong</p>
       <p>This site uses <a href="http://twitter.github.com/bootstrap/">Twitter Bootstrap</a>. You can also <a href="http://www.github.com/Einsteinish/xSama-Flask-Social">view the source code.</a></p>
     </footer>
   </div>
