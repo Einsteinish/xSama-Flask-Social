@@ -17,7 +17,7 @@ Flask-WTF==0.9.3
 github3.py==0.7.1
 google-api-python-client==1.1
 gunicorn==0.14.6
-httplib2==0.18.0
+httplib2==0.19.0
 itsdangerous==0.23
 Jinja2==2.7.1
 jsmin==2.0.2
