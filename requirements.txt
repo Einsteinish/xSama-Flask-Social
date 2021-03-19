@@ -19,7 +19,7 @@ google-api-python-client==1.1
 gunicorn==0.14.6
 httplib2==0.18.0
 itsdangerous==0.23
-Jinja2==2.7.1
+Jinja2==2.11.3
 jsmin==2.0.2
 lockfile==0.9.1
 MarkupSafe==0.18
