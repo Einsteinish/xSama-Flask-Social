@@ -1,7 +1,0 @@
-{
-  "name": "xSama-flask-social",
-  "description": "An application that serves as a working example for Flask-Social.",
-  "repository": "https://github.com/Einsteinish/xSama-Flask-Social",
-  "website": "https://github.com/Einsteinish/xSama-Flask-Social",
-  "keywords": ["python", "flask", "social"]
-}
